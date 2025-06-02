@@ -1,5 +1,5 @@
-## Human Computer Programming and Development student.
-My school account: [github.com/coughlih3099](https://www.github.com/coughlih3099)
+## Human Computer Programmer
+### I use Arch btw and neovim btw
 
 Buggest project(to date): [BigDecks](https://github.com/smoothbrain-devs/BigDecks)
 
