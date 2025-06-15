@@ -1,7 +1,7 @@
 ## Human Computer Programmer
 ### I use Arch btw and neovim btw
 
-Buggest project(to date): [BigDecks](https://github.com/smoothbrain-devs/BigDecks)
+Biggest project(to date): [BigDecks](https://github.com/smoothbrain-devs/BigDecks)
 
 <!--
 **Cthuloops/Cthuloops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
